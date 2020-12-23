@@ -1,0 +1,55 @@
+<html>
+<head><title>
+    Redirect To Test
+</title>
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'></head>
+<style>
+    h3
+    {
+       text-align:center;
+       vertical-align:middle;
+       padding-top: 300px;
+       font-family: Montserrat;
+       font-size: 30px;
+       color:white;
+
+    }
+    body
+    {
+        background: url('bgnew.jpg') ;
+    background-repeat: repeat;
+     background-position: center;
+    width:100%;  
+    }
+</style>
+<!-- JavaScript part -->
+
+<body>
+<h3>
+  Redirecting to EXAM CORNER in <span id="countdown">10</span> seconds
+</h3>
+</body>
+<script type="text/javascript">
+    
+    
+    var seconds = 10;
+    
+    function countdown() {
+        seconds = seconds - 1;
+        if (seconds < 0) {
+            
+            window.location = "http://localhost/iXAM/frame.html";
+        } else {
+            
+            document.getElementById("countdown").innerHTML = seconds;
+            
+            window.setTimeout("countdown()", 1000);
+        }
+    }
+    
+    
+    countdown();
+    
+</script>
+
+</html>

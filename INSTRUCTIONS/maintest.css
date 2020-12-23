@@ -1,0 +1,45 @@
+body{
+	background-image: url('bg-masthead.jpg');
+     background-repeat: repeat;
+     background-position: center;
+    width:100%;
+}
+h3,h2,h1
+{
+	color:black;
+	text-align: center;
+	font-family: Amaranth;
+}
+p
+{
+	font-size: 15px;
+	font-family: Montserrat;
+}
+
+.instruct
+{
+	border: solid gray 5px; 
+	box-sizing: content-box;
+	width: 50%;
+	padding-left: 15px;
+
+	margin:auto; 
+
+}
+#starttest1{
+	display: block;
+    text-align: center;
+    background: #444;
+    border-radius: 50px;
+    color: #fff;
+    width: 180px;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    margin: 0 auto;
+    vertical-align: middle;
+}
+#starttest1:hover {
+     
+     background-color: green;
+}

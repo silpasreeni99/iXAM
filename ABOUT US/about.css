@@ -1,0 +1,156 @@
+
+body {
+  /* Typography Declaration */
+  color: #222222;
+
+  font-family: "Montserrat";
+  background-image: url('https://s-media-cache-ak0.pinimg.com/736x/f4/ac/6a/f4ac6aac3afb587f6cae04155656fca3.jpg');
+}
+
+.masthead-heading,
+.masthead-intro,
+.content-footer {
+  text-align: center;
+}
+
+.masthead {
+  padding: 5em 0;
+  background:linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url('mini-profile-bg-02.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+   background-size: 100% 400px;
+  background-position: top center;
+  border-top: solid 2em #B69760;
+
+
+}
+
+
+
+.masthead-intro {
+  /* Text Declarations */
+  margin-bottom: 0.1em;
+
+  font-size: 4em;
+  padding-top: 20px;
+  color: #000000;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+}
+
+
+.masthead-heading {
+  /*Layout Declarations */
+  margin-top: -0.2em;
+  /* Typography Declarations */
+
+  font-weight: light;
+  font-size: 6em;
+  padding-top: 20px;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+/* Text Declarations for Sections */
+
+.introduction-section > p,
+.location-section > p,
+.content-footer > p,
+.questions-section > p {
+  font-weight: 300;
+  font-family: "Montserrat";
+  letter-spacing: 0.05em;
+}
+
+/* Section Styling */
+
+.introduction-section,
+.location-section,
+.questions-section {
+  max-width: 38em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+}
+
+.questions-section > h2 {
+  /*Typography Declarations */
+  font-family: "Gentium Book Basic", Georgia, serif;
+  font-size: 1.1 em;
+  font-weight: bold;
+  color: #222222;
+}
+
+/* Footer Styling */
+
+.fa-stack fa-lg {
+  display: inline-block;
+}
+
+.footer-container > p {
+  color: white;
+}
+
+.content-footer {
+  padding: 2em 0;
+  margin-top: 3em;
+  background: #2b3840;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:link {
+  color: #B69760;
+}
+
+a:visited {
+  color: #B69760;
+}
+
+a: hover {
+  color: #B69760;
+}
+
+@media only screen and (max-width: 571px) {
+    .masthead {
+        padding: 5em 0;
+    }
+    .masthead-intro {
+        font-size: 3em;
+    }
+    .masthead-heading {
+        font-size: .5em;
+    }
+    .container {
+        padding: 0 3em;
+    }
+    .footer-container {
+        padding: 0 3em;
+  }
+}
+.content-footer {
+  margin: 50px 0;
+  padding: 20px 0;
+  text-align: center;
+  background-color: #73A8C2;
+
+  text-decoration: none;
+}
+.social > li {
+  display: inline-block;
+  margin: 0 5px;
+
+}
+.content-footer > p {
+  color: #F7EDE1;
+}
+a {
+    font-weight: bold;
+    text-decoration: none;
+  
+}
+

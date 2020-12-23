@@ -1,0 +1,143 @@
+<html>
+<head>
+	<title> 
+		EXAM FORM 
+	</title>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+</head>
+
+<form action="exam1.php" method="get">  
+Enter the subject course code: <input type="text" name="sccode"><br>
+Enter the subject lecturer name: <input type="text" name="lname"><br>
+
+
+<input type="submit">
+</form>
+<style>
+	form{
+		font-size: 15pt;
+		font-family: "Montserrat";
+	}
+        body {
+            font-family:"Montserrat";
+            font-size:14px;
+            margin-top:0px;
+            margin-left:0px;
+            margin-right:0px;
+            background-image: url('bg21.jpg');
+background-repeat: no-repeat;
+        font-size: 15pt;
+       
+            margin-bottom:0px;
+        }
+        @media screen and (min-width: 600px) {
+            body {
+                font-size: 20px;
+            }
+        }
+        @media (min-resolution: 200dpi) {
+            body {
+                font-size: 24px;
+            }
+        }
+
+        .header1 {
+            margin-top:0em;
+            margin-bottom:0.5em;
+            margin-left:0em;
+            margin-right:0em;
+            padding-top:0.3em;
+            padding-bottom:0.3em;
+            width=100%;
+            text-align: center;
+            background: #000066;
+            color: white;
+            font-size: 2em;
+            font-weight:normal;
+        }
+
+        .header2 {
+            margin-top:0.5em;
+            margin-bottom:0.5em;
+            padding-top:0.3em;
+            padding-bottom:0.3em;
+            padding-left:0.25em;
+            padding-right:0.25em;
+            text-align: center;
+            font-size: 1.5em;
+            font-weight:normal;
+        }
+
+        .header3 {
+            padding-left:1.5em;
+            font-size:1.2em;
+        }
+
+        
+     
+
+        .instruction {
+            margin-top:2em;
+            margin-bottom:4em;
+            color: black;
+            font-size: 1em;
+            font-weight:normal;
+            background-color: #ffffff;
+            width: 100%;
+            background-image: url('bg21.jpg');
+background-repeat: no-repeat;
+      
+
+        }
+        ol, ul {
+            font-size:1em;
+            margin:2em;
+            margin-top:0.5em;
+        }
+
+        .footer {
+            margin-top:2em;
+            margin-bottom:0em;
+            padding-top:0.75em;
+            padding-bottom:0.75em;
+            padding-left:1.5em;
+            padding-right:1em;
+            color: white;
+            font-size: 1em;
+            font-weight:bold;
+            background-color: #bbbbbb;
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+        }
+
+        #update {
+            padding-left:1.5em;
+            color: white;
+            font-size: 0.8em;
+            font-weight:normal;
+        }
+    </style>
+ <body>
+    <div class="header1">iXAM-Easy proctoring,Right from your home</div>
+    <div class="header2">Screen+Camera Recording for Exam from Home</div>
+    <div class="instruction"><b class="header3">Instructions:</b>
+        <ol>
+            <li><b>Course ID</b></li>
+            <li><b>Student ID</b></li>
+            <li><b>Start Rec.</b></li>
+            <li><b>Stop Rec.</b></li>
+            <li><b>Choose File</b> Checksum</li>
+            <li><b>Cal. Checksum</b>: Calculates Checksum values</li>
+            <li>Send Checksum + video files (eg via SMS, Checksum only, Online Examination System, Google Form)</li>
+        </ol>
+        <b class="header3">Options:</b>
+        <ul>
+            <li><b>Monitor</b>: Choose to enable or disable the screen showing recorded videos.</li>
+            <li><b>Audio Rec.</b>: Select to record sound.</li>
+            <li><b>Course ID/Student ID</b>: It will be used as the name of the recorded video file. If not filled out Will use the date and time of the exam as the file name instead</li>
+        </ul>
+        
+  </body>
+</html>
