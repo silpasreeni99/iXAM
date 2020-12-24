@@ -33,7 +33,7 @@
 
 ## Getting Started
 
-✅ Detailed instructions regarding how to use the  is given in the video link provided: <a href="https://github.com/silpasreeni99/iXAM/blob/main/demo_video.mp4"> 📷 VIDEO LINK </a>
+✅ Detailed instructions regarding how to use the  is given in the video link provided: <a href="https://drive.google.com/file/d/12KYWxqbWqY3L37niSgiMjMsi9yzF0Jdq/view?usp=sharing"> 📷 VIDEO LINK </a>
 <br></br>
 
 <br></br>
