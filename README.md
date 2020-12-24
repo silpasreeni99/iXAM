@@ -45,6 +45,8 @@
 💻 PHP<br>
 💻 MySQL<br>
 
+## NOTE:
+Ensure to change links according to how it is downloaded in your system.It works on localhost in xampp server.So download xampp server and continue the process.
 
 ## PROJECT IMPLEMENTATION:
 
