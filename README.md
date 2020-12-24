@@ -51,27 +51,27 @@ Ensure to change links according to how it is downloaded in your system.It works
 ## PROJECT IMPLEMENTATION:
 
 <b>1. HOME PAGE<b>
-<kbd><img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image1.png" width="600" height="600"></img></kbd>
+<kbd><img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image1.png"></img></kbd>
 <br></br>
 
 <b>2. Candidate’s login process till EXAM CORNER page<b>
-<kbd><img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image2.png" width="600" height="600"></img></kbd>
+<kbd><img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image2.png"></img></kbd>
  <br></br>
  
 <b>3. EXAM CORNER procedure<b>
-<kbd><img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image3.png" width="600" height="600"></img></kbd>
+<kbd><img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image3.png"></img></kbd>
  <br></br>
  
 <b>4. Video link updation process<b>
-<kbd><img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image4.png" width="600" height="600"></img></kbd>
+<kbd><img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image4.png"></img></kbd>
  <br></br>
  
  <b>5. Organiser Activity page<b>
-<kbd><img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image5.png" width="600" height="600"></img></kbd>
+<kbd><img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image5.png"></img></kbd>
  <br></br>
  
  <b>6. About us and Contact us page<b>
-<kbd><img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image6.png" width="600" height="600"></img></kbd>
+<kbd><img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image6.png"></img></kbd>
  <br></br>
  
 
