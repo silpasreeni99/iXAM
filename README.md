@@ -51,7 +51,7 @@ Ensure to change links according to how it is downloaded in your system.It works
 ## PROJECT IMPLEMENTATION:
 
 <b>1. HOME PAGE<b>
-<img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image1.png"></img>
+<kbd><img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image1.png"></img></kbd>
 <br></br>
 
 <b>2. Candidate’s login process till EXAM CORNER page<b>
