@@ -50,27 +50,27 @@ Ensure to change links according to how it is downloaded in your system.It works
 
 ## PROJECT IMPLEMENTATION:
 
-<b>HOME PAGE<b>
+<b>1. HOME PAGE<b>
 <img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image1.png"></img>
 <br></br>
 
-<b>Candidate’s login process till EXAM CORNER page<b>
+<b>2. Candidate’s login process till EXAM CORNER page<b>
 <img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image2.png"></img>
  <br></br>
  
-<b>EXAM CORNER procedure<b>
+<b>3. EXAM CORNER procedure<b>
 <img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image3.png"></img>
  <br></br>
  
-<b>Video link updation process<b>
+<b>4. Video link updation process<b>
 <img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image4.png"></img>
  <br></br>
  
- <b>Organiser Activity page<b>
+ <b>5. Organiser Activity page<b>
 <img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image5.png"></img>
  <br></br>
  
- <b>About us and Contact us page<b>
+ <b>6. About us and Contact us page<b>
 <img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image6.png"></img>
  <br></br>
  
