@@ -48,20 +48,28 @@
 
 ## PROJECT IMPLEMENTATION:
 
-<b>User has to choose between movies/music:<b>
-<img src="https://github.com/SheCodes-IEEE-CIS-GHRCE/Entertainment-Recommendation-System/blob/main/screenshots/image%20(1).png"></img>
+<b>HOME PAGE<b>
+<img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image1.png"></img>
 <br></br>
 
-<b>Process of face+emotion detection:<b>
-<img src="https://github.com/SheCodes-IEEE-CIS-GHRCE/Entertainment-Recommendation-System/blob/main/screenshots/image%20(2).png"></img>
+<b>Candidate’s login process till EXAM CORNER page<b>
+<img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image2.png"></img>
  <br></br>
  
-<b>List of movies suggested from IMDB displayed on the tkinter window:<b>
-<img src="https://github.com/SheCodes-IEEE-CIS-GHRCE/Entertainment-Recommendation-System/blob/main/screenshots/image%20(3).png"></img>
+<b>EXAM CORNER procedure<b>
+<img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image3.png"></img>
  <br></br>
  
-<b>For music recommendation, the list of songs of the allocated genre will be played for the user. The user can pause,resume,go to next/prev song.<b>
-<img src="https://github.com/SheCodes-IEEE-CIS-GHRCE/Entertainment-Recommendation-System/blob/main/screenshots/image%20(5).png"></img>
+<b>Video link updation process<b>
+<img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image4.png"></img>
+ <br></br>
+ 
+ <b>Organiser Activity page<b>
+<img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image5.png"></img>
+ <br></br>
+ 
+ <b>About us and Contact us page<b>
+<img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image6.png"></img>
  <br></br>
  
 
