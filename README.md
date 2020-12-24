@@ -55,23 +55,23 @@ Ensure to change links according to how it is downloaded in your system.It works
 <br></br>
 
 <b>2. Candidate’s login process till EXAM CORNER page<b>
-<img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image2.png"></img>
+<kbd><img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image2.png"></img></kbd>
  <br></br>
  
 <b>3. EXAM CORNER procedure<b>
-<img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image3.png"></img>
+<kbd><img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image3.png"></img></kbd>
  <br></br>
  
 <b>4. Video link updation process<b>
-<img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image4.png"></img>
+<kbd><img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image4.png"></img></kbd>
  <br></br>
  
  <b>5. Organiser Activity page<b>
-<img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image5.png"></img>
+<kbd><img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image5.png"></img></kbd>
  <br></br>
  
  <b>6. About us and Contact us page<b>
-<img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image6.png"></img>
+<kbd><img src="https://github.com/silpasreeni99/iXAM/blob/main/readme%20images/image6.png"></img></kbd>
  <br></br>
  
 
