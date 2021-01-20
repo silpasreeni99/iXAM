@@ -1,7 +1,8 @@
 # iXAM
 
 <i>
- 🙋 Team Member: Silpa S
+ 🙋 Candidate Name : Silpa S
+USN : 1NH18IS106
 </i>
 <br></br>
 <br></br>
